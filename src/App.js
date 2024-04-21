@@ -59,7 +59,6 @@ useEffect(() => {
         </Router>
     </div>
   );
-  
 }
 
 export default App;
